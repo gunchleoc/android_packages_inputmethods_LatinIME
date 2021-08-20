@@ -52,6 +52,7 @@
     fr: French/azerty
     fr_CA: French (Canada)/qwerty
     fr_CH: French (Switzerland)/swiss
+    gd: Scottish Gaelic/qwerty
     gl_ES: Galician (Spain)/spanish
     hi: Hindi/hindi
     hi: Hindi/hindi_compact
@@ -364,6 +365,16 @@
             android:imeSubtypeExtraValue="KeyboardLayoutSet=swiss,AsciiCapable,SupportTouchPositionCorrection,EmojiCapable"
             android:isAsciiCapable="true"
     />
+    <!-- where do I get the subtypeId from?
+    <subtype android:icon="@drawable/ic_ime_switcher_dark"
+            android:label="@string/subtype_gd"
+            android:subtypeId="0xb045e755"
+            android:imeSubtypeLocale="gd"
+            android:languageTag="gd"
+            android:imeSubtypeMode="keyboard"
+            android:imeSubtypeExtraValue="TrySuppressingImeSwitcher,AsciiCapable,SupportTouchPositionCorrection,EmojiCapable"
+            android:isAsciiCapable="true"
+    /> -->
     <subtype android:icon="@drawable/ic_ime_switcher_dark"
             android:label="@string/subtype_generic"
             android:subtypeId="0xb939573c"
