@@ -368,12 +368,12 @@
 
     <!-- where do I get the subtypeId from? -->
     <subtype android:icon="@drawable/ic_ime_switcher_dark"
-            android:label="@string/subtype_gd"
+            android:label="@string/subtype_generic"
             android:subtypeId="0xfaa12baa"
             android:imeSubtypeLocale="gd"
             android:languageTag="gd"
             android:imeSubtypeMode="keyboard"
-            android:imeSubtypeExtraValue="TrySuppressingImeSwitcher,AsciiCapable,SupportTouchPositionCorrection,EmojiCapable"
+            android:imeSubtypeExtraValue="KeyboardLayoutSet=qwerty,AsciiCapable,EmojiCapable"
             android:isAsciiCapable="true"
     />
     <subtype android:icon="@drawable/ic_ime_switcher_dark"
