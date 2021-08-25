@@ -54,13 +54,31 @@
          U+00FB: "û" LATIN SMALL LETTER U WITH CIRCUMFLEX
          U+016B: "ū" LATIN SMALL LETTER U WITH MACRON -->
     <string name="morekeys_u">&#x00F9;,%,&#x00FA;,&#x00FC;,&#x00FB;,&#x016B;</string>
-    <!-- U+00DF: "ß" LATIN SMALL LETTER SHARP S
+    <!-- U+1E03: "ḃ" Latin Small Letter B with Dot Above  -->
+    <string name="morekeys_b">&#x1E03;</string>
+    <!-- U+010B: "ċ" Latin Small Letter C with Dot Above  -->
+    <string name="morekeys_c">&#x010B;</string>
+    <!-- U+1E0B: "ḋ" Latin Small Letter D with Dot Above  -->
+    <string name="morekeys_d">&#x1E0B;</string>
+    <!-- U+1E1F: "ḟ" Latin Small Letter F with Dot Above  -->
+    <string name="morekeys_f">&#x1E1F;</string>
+    <!-- U+0121: "ġ" Latin Small Letter G with Dot Above  -->
+    <string name="morekeys_g">&#x0121;</string>
+    <!-- U+1E41: "ṁ" Latin Small Letter M with Dot Above  -->
+    <string name="morekeys_m">&#x1E41;</string>
+    <!-- U+1E45: "ṅ" Latin Small Letter N with Dot Above
+         U+00F1: "ñ" LATIN SMALL LETTER N WITH TILDE
+         U+0144: "ń" LATIN SMALL LETTER N WITH ACUTE -->
+    <string name="morekeys_n">&#x1E45;,&#x00F1;,&#x0144;</string>
+    <!-- U+1E57: "ṗ" Latin Small Letter P with Dot Above  -->
+    <string name="morekeys_p">&#x1E57;</string>
+    <!-- U+1E61: "ṡ" Latin Small Letter S with Dot Above
+         U+00DF: "ß" LATIN SMALL LETTER SHARP S
          U+015B: "ś" LATIN SMALL LETTER S WITH ACUTE
          U+0161: "š" LATIN SMALL LETTER S WITH CARON -->
-    <string name="morekeys_s">&#x00DF;,&#x015B;,&#x0161;</string>
-    <!-- U+00F1: "ñ" LATIN SMALL LETTER N WITH TILDE
-         U+0144: "ń" LATIN SMALL LETTER N WITH ACUTE -->
-    <string name="morekeys_n">&#x00F1;,&#x0144;</string>
+    <string name="morekeys_s">&#x1E61;,&#x00DF;,&#x015B;,&#x0161;</string>
+    <!-- U+1E6B: "ṫ" Latin Small Letter T with Dot Above  -->
+    <string name="morekeys_t">&#x1E6B;</string>
     <string name="single_quotes">!text/single_9qm_lqm</string>
     <string name="double_quotes">!text/double_9qm_lqm</string>
     <string name="single_angle_quotes">!text/single_raqm_laqm</string>
