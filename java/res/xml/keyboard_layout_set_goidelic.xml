@@ -22,7 +22,7 @@
     xmlns:latin="http://schemas.android.com/apk/res/com.android.inputmethod.latin">
     <Element
         latin:elementName="alphabet"
-        latin:elementKeyboard="@xml/kbd_qwerty"
+        latin:elementKeyboard="@xml/kbd_goidelic"
         latin:enableProximityCharsCorrection="true" />
     <Element
         latin:elementName="symbols"
