@@ -1883,7 +1883,7 @@ public final class KeyboardTextsTable {
         /* morekeys_t */ "\u1E6B",
         // U+0026: "&" Ampersand
         // U+0121: "ġ" Latin Small Letter G with Dot Above
-        /* morekeys_g */ "&,\u0121",
+        /* morekeys_g */ "%,&,\u0121",
         /* single_angle_quotes */ "!text/single_raqm_laqm",
         /* double_angle_quotes */ "!text/double_raqm_laqm",
         /* morekeys_l ~ */
