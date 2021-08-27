@@ -58,12 +58,15 @@
     <string name="morekeys_b">&#x1E03;</string>
     <!-- U+010B: "ċ" Latin Small Letter C with Dot Above  -->
     <string name="morekeys_c">&#x010B;</string>
-    <!-- U+1E0B: "ḋ" Latin Small Letter D with Dot Above  -->
-    <string name="morekeys_d">&#x1E0B;</string>
+    <!-- U+20AC: "€" Euro Sign
+         U+0024: "$" Dollar Sign
+         U+1E0B: "ḋ" Latin Small Letter D with Dot Above  -->
+    <string name="morekeys_d">&#x20AC;,&#x0024;,&#x1E0B;</string>
     <!-- U+1E1F: "ḟ" Latin Small Letter F with Dot Above  -->
     <string name="morekeys_f">&#x1E1F;</string>
-    <!-- U+0121: "ġ" Latin Small Letter G with Dot Above  -->
-    <string name="morekeys_g">&#x0121;</string>
+    <!-- U+0026: "&" Ampersand
+         U+0121: "ġ" Latin Small Letter G with Dot Above  -->
+    <string name="morekeys_g">&#x0026;,&#x0121;</string>
     <!-- U+1E41: "ṁ" Latin Small Letter M with Dot Above  -->
     <string name="morekeys_m">&#x1E41;</string>
     <!-- U+1E45: "ṅ" Latin Small Letter N with Dot Above

@@ -32,21 +32,23 @@
         latin:keyHintLabel="#"
         latin:additionalMoreKeys="#"
         latin:moreKeys="!text/morekeys_s" />
+    <!-- Changed dollar to pound -->
     <Key
         latin:keySpec="d"
-        latin:keyHintLabel="$"
-        latin:additionalMoreKeys="$"
+        latin:keyHintLabel="&#x00A3;"
+        latin:additionalMoreKeys="&#x00A3;"
         latin:moreKeys="!text/morekeys_d" />
-    <!-- Added morekeys_f, rest is equal to qwerty -->
+    <!-- Added morekeys_f -->
     <Key
         latin:keySpec="f"
         latin:keyHintLabel="%"
         latin:additionalMoreKeys="%"
         latin:moreKeys="!text/morekeys_f" />
+    <!-- Changed ampersand to Tironian Sign Et -->
     <Key
         latin:keySpec="g"
-        latin:keyHintLabel="&amp;"
-        latin:additionalMoreKeys="&amp;"
+        latin:keyHintLabel="&#x204A;"
+        latin:additionalMoreKeys="&#x204A;"
         latin:moreKeys="!text/morekeys_g" />
     <!-- h,j,k,l -->
     <include
